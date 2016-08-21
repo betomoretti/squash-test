@@ -1,1 +1,3 @@
-var = 10;
+var aux = 10;
+
+console.log(aux);
